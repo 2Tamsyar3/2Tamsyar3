@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @2Tamsyar3
-- 👀 I’m interested in blockchain, cryptocurrency, smart contracts, and all the goodies related
-- 🌱 I’m currently learning Ruby on Rails (RoR)
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to expand my technical skills in software development and testing
 - 📫 How to reach me ...
 
